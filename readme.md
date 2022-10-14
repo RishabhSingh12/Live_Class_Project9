@@ -4,7 +4,7 @@ This assignment was given as a task in [ineuron's](https://ineuron.ai/course/Ful
 
 - This assignment is to replicate a landing page was supposed to be done using flexbox or grid.
 
-- This project took around 3.5 hrs to complete.
+- This project took around 5 hrs to complete.
 
 ## Tool/Technologies used -
 
